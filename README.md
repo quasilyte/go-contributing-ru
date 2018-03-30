@@ -11,8 +11,9 @@
 
 1. [Вводное занятие](/_docs/presentations/1.pdf).
 
-Официальный [Contribution Guide - новая версия](https://tip.golang.org/doc/contribute.html).
-Текущая версия: [Contribution Guide](https://golang.org/doc/contribute.html).
+Официальный Contribution Guide:
+- [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
+- [Текущая версия](https://golang.org/doc/contribute.html)
 
 ## Полезные ссылки
 
