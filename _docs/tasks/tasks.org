@@ -19,11 +19,13 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | 20396 | encoding/xml: accepts invalid XML with multiple colons                           | ★★         | bugfix      |
 | 19683 | cmd/compile: eliminate usages of global lineno                                   | ★★         | refactoring |
 | 19636 | encoding/base64: decoding is slow                                                | ★★         | performance |
+| 18581 | doc: fix where we forgot to target Windows users                                 | ★★         | docs        |
 | 22095 | cmd/link: code cleanup                                                           | ★★★        | refactoring |
 | 21045 | cmd/go: do nothing with explicitly specified "_*" file                           | ★★★        | bugfix      |
 | 20032 | cmd/vet: eliminate use of Perl in tests                                          | ★★★        | re-write    |
 | 19675 | cmd/vet: report uses of -0 in float32/64 context                                 | ★★★        | improvement |
 | 24499 | image/jpeg: Decode is slow                                                       | ★★★★       | performance |
+| 18072 | cmd/asm/internal/asm: add encoding tests for all architectures                   | ★★★        | testing     |
 | 22555 | cmd/go: cgo compilation fails when LDFLAGS refers to a @file                     | ★★★★       | feature     |
 | 22369 | encoding/json: add the full path to the field in UnmarshalTypeError              | ★★★★       | feature     |
 | 20235 | encoding/base64: integer overflow in (*Encoding).EncodedLen                      | ★★★★       | bugfix      |
@@ -37,6 +39,8 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | 20184 | cmd/compile: wasted bucket allocated for non-escaping map when hint is not small | ★★★★★      | improvement |
 | 19577 | test: errorcheck support for intraline errors                                    | ★★★★★      | improvement |
 | 19490 | cmd/vet: reduce the amount of false positives for -shadow mode                   | ★★★★★      | improvement |
+| 18601 | net: poor performance of Dial & friends                                          | ★★★★★      | performance |
+| 18269 | cmd/compile: remove stack check for leaf routines                                | ★★★★★      | improvement |
 
 Описания столбцов из таблицы выше:
 | Column     | Description                                                                                       |
@@ -53,3 +57,4 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | example/gotypes: fix TODO/FIXME inside document                              | ★★         | docs        |
 | fixedbugs/issue10607 fails on GOARCH=386 if there is no -lgcc (gcc-multilib) | ★★★        | improvement |
 | cmd/compile: document Phi order after "schedule" pass (see 20178)            | ★★★        | docs        |
+| cmd/asm/internal/asm: add more parser tests                                  | ★★★        | testing     |
