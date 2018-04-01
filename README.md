@@ -1,5 +1,8 @@
 # KFU [Go](https://golang.org/) курсы
 
+> Notice: this course is for Russian university and there is no english version.  
+> In general though, all participants are welcome.
+
 Данный репозиторий содержит вспомогательный материал, на который
 время от времени делаются отсылки в лекционных презентациях.
 
