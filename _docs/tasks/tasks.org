@@ -38,6 +38,14 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | 19577 | test: errorcheck support for intraline errors                                    | ★★★★★      | improvement |
 | 19490 | cmd/vet: reduce the amount of false positives for -shadow mode                   | ★★★★★      | improvement |
 
+Описания столбцов из таблицы выше:
+| Column     | Description                                                                                       |
+|------------+---------------------------------------------------------------------------------------------------|
+| ID         | Github issue ID. "https://github.com/golang/go/issues/$ID" формирует URL                          |
+| Title      | Заголовок с github трекера. Иногда немного изменено в пользу информативности                      |
+| Diffuculty | Чем выше сложность, тем выше риск не успеть задачу в рамках курса (больше самостоятельной работы) |
+| Kind       | Примерная классификация задачи                                                                    |
+
 Задачи, которые не оформлены в трекере Go, но потенциально имеющие смысл:
 | Title                                                                        | Difficulty | Kind        |
 |------------------------------------------------------------------------------+------------+-------------|
