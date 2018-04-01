@@ -9,25 +9,34 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 
 То, что приведено в этом файле, является чем-то вроде "списком задач по умолчанию".
 
-|    ID | Title                                                                     | Difficulty | Kind        |
-|-------+---------------------------------------------------------------------------+------------+-------------|
-| 21779 | all: reduce golint errors on standard library                             | ★★         | refactoring |
-| 24352 | go: add more examples to go/* package documentation                       | ★★         | docs        |
-| 23386 | cmd/internal/obj/x86: FSAVE assembled as FNSAVE                           | ★★         | bugfix      |
-| 21664 | wiki: Would like a page to list community benchmarks                      | ★★         | benchmarks  |
-| 20396 | encoding/xml: accepts invalid XML with multiple colons                    | ★★         | bugfix      |
-| 22095 | cmd/link: code cleanup                                                    | ★★★        | refactoring |
-| 21045 | cmd/go: do nothing with explicitly specified "_*" file                    | ★★★        | bugfix      |
-| 20032 | cmd/vet: eliminate use of Perl in tests                                   | ★★★        | re-write    |
-| 24499 | image/jpeg: Decode is slow                                                | ★★★★       | performance |
-| 22555 | cmd/go: cgo compilation fails when LDFLAGS refers to a @file              | ★★★★       | feature     |
-| 22369 | encoding/json: add the full path to the field in UnmarshalTypeError       | ★★★★       | feature     |
-| 20235 | encoding/base64: integer overflow in (*Encoding).EncodedLen               | ★★★★       | bugfix      |
-| 22446 | cmd/link: doesn't propagate -I flags to the external linker               | ★★★★       | bugfix      |
-| 21860 | cmd/internal/obj/x86: improve asm error messages                          | ★★★★       | improvement |
-| 21735 | cmd/compile: avoid slow versions of LEA instructions on x86               | ★★★★       | improvement |
-| 20906 | math/big: big.Int String conversion is slow                               | ★★★★★      | performance |
-| 20184 | cmd/compile: bucket allocated for non-escaping map when hint is not small | ★★★★★      | improvement |
+|    ID | Title                                                                            | Difficulty | Kind        |
+|-------+----------------------------------------------------------------------------------+------------+-------------|
+| 21779 | all: reduce golint errors on standard library                                    | ★★         | refactoring |
+| 24352 | go: add more examples to go/* package documentation                              | ★★         | docs        |
+| 23471 | x/perf/cmd/benchstat: tips or quickstart for newcomers                           | ★★         | docs        |
+| 23386 | cmd/internal/obj/x86: FSAVE assembled as FNSAVE                                  | ★★         | bugfix      |
+| 21664 | wiki: Would like a page to list community benchmarks                             | ★★         | benchmarks  |
+| 20396 | encoding/xml: accepts invalid XML with multiple colons                           | ★★         | bugfix      |
+| 19683 | cmd/compile: eliminate usages of global lineno                                   | ★★         | refactoring |
+| 19636 | encoding/base64: decoding is slow                                                | ★★         | performance |
+| 22095 | cmd/link: code cleanup                                                           | ★★★        | refactoring |
+| 21045 | cmd/go: do nothing with explicitly specified "_*" file                           | ★★★        | bugfix      |
+| 20032 | cmd/vet: eliminate use of Perl in tests                                          | ★★★        | re-write    |
+| 19675 | cmd/vet: report uses of -0 in float32/64 context                                 | ★★★        | improvement |
+| 24499 | image/jpeg: Decode is slow                                                       | ★★★★       | performance |
+| 22555 | cmd/go: cgo compilation fails when LDFLAGS refers to a @file                     | ★★★★       | feature     |
+| 22369 | encoding/json: add the full path to the field in UnmarshalTypeError              | ★★★★       | feature     |
+| 20235 | encoding/base64: integer overflow in (*Encoding).EncodedLen                      | ★★★★       | bugfix      |
+| 22446 | cmd/link: doesn't propagate -I flags to the external linker                      | ★★★★       | bugfix      |
+| 21860 | cmd/internal/obj/x86: improve asm error messages                                 | ★★★★       | improvement |
+| 19042 | cmd/internal/obj: optimize wrapper method prologue for branch prediction         | ★★★★       | improvement |
+| 21735 | cmd/compile: avoid slow versions of LEA instructions on x86                      | ★★★★       | improvement |
+| 19670 | x/tools/go/ssa: make opaqueType less annoying to use                             | ★★★★       | improvement |
+| 19013 | cmd/compile: add tool for understanding/debugging SSA rules                      | ★★★★       | feature     |
+| 20906 | math/big: big.Int String conversion is slow                                      | ★★★★★      | performance |
+| 20184 | cmd/compile: wasted bucket allocated for non-escaping map when hint is not small | ★★★★★      | improvement |
+| 19577 | test: errorcheck support for intraline errors                                    | ★★★★★      | improvement |
+| 19490 | cmd/vet: reduce the amount of false positives for -shadow mode                   | ★★★★★      | improvement |
 
 Задачи, которые не оформлены в трекере Go, но потенциально имеющие смысл:
 | Title                                                                        | Difficulty | Kind        |
