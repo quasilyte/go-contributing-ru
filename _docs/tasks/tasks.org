@@ -34,12 +34,14 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | 19042 | cmd/internal/obj: optimize wrapper method prologue for branch prediction         | ★★★★       | improvement |
 | 19670 | x/tools/go/ssa: make opaqueType less annoying to use                             | ★★★★       | improvement |
 | 19013 | cmd/compile: add tool for understanding/debugging SSA rules                      | ★★★★       | feature     |
+| 17858 | time: optimize time.Time.Sub and time.Since                                      | ★★★★       | performane  |
 | 20906 | math/big: big.Int String conversion is slow                                      | ★★★★★      | performance |
 | 20184 | cmd/compile: wasted bucket allocated for non-escaping map when hint is not small | ★★★★★      | improvement |
 | 19577 | test: errorcheck support for intraline errors                                    | ★★★★★      | improvement |
 | 19490 | cmd/vet: reduce the amount of false positives for -shadow mode                   | ★★★★★      | improvement |
 | 18601 | net: poor performance of Dial & friends                                          | ★★★★★      | performance |
 | 18269 | cmd/compile: remove stack check for leaf routines                                | ★★★★★      | improvement |
+| 17926 | cmd/compile: insertVarPhis is very slow                                          | ★★★★★      | performance |
 
 Описания столбцов из таблицы выше:
 | Column     | Description                                                                                       |
