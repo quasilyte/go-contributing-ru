@@ -7,6 +7,12 @@ KFU Go contributors workshop 2018.
 Лучше всего сначала рассматривать задачи, отмеченные "Help Wanted":
 https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22Help+Wanted%22.
 
+Распределённые задачи:
+
+|    ID | Title                                                               | Assignees |
+|-------+---------------------------------------------------------------------+-----------|
+| 22369 | encoding/json: add the full path to the field in UnmarshalTypeError | Делюс     |
+
 То, что приведено в этом файле, является чем-то вроде "списком задач по умолчанию".
 
 |    ID | Title                                                                            | Difficulty | Kind        |
@@ -25,7 +31,6 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | 19675 | cmd/vet: report uses of -0 in float32/64 context                                 | ★★★        | improvement |
 | 21735 | cmd/compile: avoid slow versions of LEA instructions on x86                      | ★★★        | improvement |
 | 18072 | cmd/asm/internal/asm: add encoding tests for all architectures                   | ★★★        | testing     |
-| 22369 | encoding/json: add the full path to the field in UnmarshalTypeError              | ★★★        | feature     |
 | 24499 | image/jpeg: Decode is slow                                                       | ★★★★       | performance |
 | 22555 | cmd/go: cgo compilation fails when LDFLAGS refers to a @file                     | ★★★★       | feature     |
 | 20235 | encoding/base64: integer overflow in (*Encoding).EncodedLen                      | ★★★★       | bugfix      |
