@@ -59,6 +59,7 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 Задачи, которые не оформлены в трекере Go, но потенциально имеющие смысл:
 | Title                                                                        | Difficulty | Kind        |
 |------------------------------------------------------------------------------+------------+-------------|
+| cmd/internal/obj/x86: unexport as much internal types as possible            | ★          | refactoring |
 | example/gotypes: more "Getting from A to B"                                  | ★★         | docs        |
 | example/gotypes: fix TODO/FIXME inside document                              | ★★         | docs        |
 | fixedbugs/issue10607 fails on GOARCH=386 if there is no -lgcc (gcc-multilib) | ★★★        | improvement |
