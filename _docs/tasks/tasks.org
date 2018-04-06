@@ -60,6 +60,7 @@ https://github.com/golang/go/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%
 | Title                                                                        | Difficulty | Kind        |
 |------------------------------------------------------------------------------+------------+-------------|
 | cmd/internal/obj/x86: unexport as much internal types as possible            | ★          | refactoring |
+| cmd/internal/obj/x86: fix lint errors in obj6_test.go                        | ★          | refactoring |
 | example/gotypes: more "Getting from A to B"                                  | ★★         | docs        |
 | example/gotypes: fix TODO/FIXME inside document                              | ★★         | docs        |
 | fixedbugs/issue10607 fails on GOARCH=386 if there is no -lgcc (gcc-multilib) | ★★★        | improvement |
