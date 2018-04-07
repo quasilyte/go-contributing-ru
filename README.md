@@ -10,6 +10,8 @@
 
 Информацию о практических заданиях можно найти в каталоге [_docs/tasks](/_docs/tasks/tasks.org).
 
+[Таблицу результатов](#Трофеи) можно посмотреть в самом низу этого документа.
+
 > ВАЖНО: документацию по стандартным пакетам можно смотреть на [golang.org/pkg](https://golang.org/pkg/).
 > Её также можно поднять локально, с помощью `godoc -http=8080`, после этого документация
 > будет доступна по адресу `http://localhost:8080/`.
@@ -62,6 +64,22 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 [Go by example](https://gobyexample.com/) - примеры кода на Go с комментариями и описаниями.
 
 [Go webdev examples](https://gowebexamples.com/) - аналог Go by example, но с уклоном в веб разработку.
+
+## Трофеи
+
+Таблица изменений, которые были посланы на go-review.
+
+| Ссылка на изменение | Автор | Статус |
+|---------------------|-------|--------|
+| https://golang.org/cl/105415 | fexolm / Артём | merged |
+| https://golang.org/cl/105395 | fexolm / Артём | merged |
+| https://golang.org/cl/105355 | fexolm / Артём | merged |
+| https://golang.org/cl/105356 | bontequero / Делюс | merged |
+| https://golang.org/cl/105495 | bontequero / Делюс | review |
+| https://golang.org/cl/105416 | ludweeg / Эмиль | merged |
+| https://golang.org/cl/105375 | weeellz / Равиль | merged |
+
+
 
 ----
 
