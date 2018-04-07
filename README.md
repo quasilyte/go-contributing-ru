@@ -23,7 +23,7 @@
 - [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
 - [Текущая версия](https://golang.org/doc/contribute.html)
 
-Есть хорошая презентация на английском: [How to contribute to Go](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p).
+Есть хорошая презентация на английском: [How to contribute to Go](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p).  
 Только оттуда стоит выбросить всё, что привязано к давно прошедшему gophercon.
 
 ## Полезные ссылки
