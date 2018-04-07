@@ -41,7 +41,7 @@ Google проводил [Contribution Workshop](https://blog.golang.org/contribu
 Есть хорошая презентация на английском: [How to contribute to Go](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p).  
 Только оттуда стоит выбросить всё, что привязано к давно прошедшему gophercon.
 
-Видео доклада на тему "How to contribute to Go" на русском:
+Видео доклада на тему "How to contribute to Go" на русском:  
 https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 
 ## Ссылки, полезные для обучения
