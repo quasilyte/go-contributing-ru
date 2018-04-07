@@ -55,3 +55,8 @@ Google проводил [Contribution Workshop](https://blog.golang.org/contribu
 [Go by example](https://gobyexample.com/) - примеры кода на Go с комментариями и описаниями.
 
 [Go webdev examples](https://gowebexamples.com/) - аналог Go by example, но с уклоном в веб разработку.
+
+----
+
+kfu-go-2018  
+kfu go 2018
