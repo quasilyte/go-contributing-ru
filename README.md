@@ -23,9 +23,6 @@
 - [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
 - [Текущая версия](https://golang.org/doc/contribute.html)
 
-Есть хорошая презентация на английском: [How to contribute to Go](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p).  
-Только оттуда стоит выбросить всё, что привязано к давно прошедшему gophercon.
-
 ## Полезные ссылки
 
 [GolangShow](http://golangshow.com) - русскоязычный подкаст о Go. Крутые ведущие, интересные гости.
@@ -40,6 +37,12 @@ Google проводил [Contribution Workshop](https://blog.golang.org/contribu
 Это мероприятие во многом является идейным вдохновителем для этих курсов (но по размаху
 их догнать невозможно). Кроме интересного описания самого события, в Go блоге, где
 опубликован этот доклад, есть ещё много других качественных постов.
+
+Есть хорошая презентация на английском: [How to contribute to Go](https://docs.google.com/presentation/d/1ap2fycBSgoo-jCswhK9lqgCIFroE1pYpsXC1ffYBCq4/edit#slide=id.p).  
+Только оттуда стоит выбросить всё, что привязано к давно прошедшему gophercon.
+
+Видео доклада на тему "How to contribute to Go" на русском:
+https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 
 ## Ссылки, полезные для обучения
 
