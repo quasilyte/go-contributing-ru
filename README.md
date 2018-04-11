@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 | https://golang.org/cl/105395 | fexolm / Артём | merged |
 | https://golang.org/cl/105355 | fexolm / Артём | merged |
 | https://golang.org/cl/105356 | bontequero / Делюс | merged |
-| https://golang.org/cl/105495 | bontequero / Делюс | review |
+| https://golang.org/cl/105495 | bontequero / Делюс | merged |
 | https://golang.org/cl/105736 | bontequero / Делюс | merged |
 | https://golang.org/cl/105416 | ludweeg / Эмиль | merged |
 | https://golang.org/cl/105375 | weeellz / Равиль | merged |
