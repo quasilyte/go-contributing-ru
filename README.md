@@ -19,7 +19,7 @@
 ## План занятий
 
 1. [Вводное занятие](/_docs/presentations/1.pdf).
-2. [Первый коммит в go-codereview](/_docs/presentations/2.pdf).
+2. [Первый коммит в go-review.googlesource](/_docs/presentations/2.pdf).
 
 Официальный Contribution Guide:
 - [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
