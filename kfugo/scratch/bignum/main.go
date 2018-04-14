@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"      // Formatted I/O with functions analogous to C's printf and scanf.
-	"log"      // Simple logging package
+	"log"      // Simple logging package.
 	"math/big" // Arbitrary-precision arithmetic (big numbers).
 )
 
