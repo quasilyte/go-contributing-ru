@@ -82,6 +82,7 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 | https://golang.org/cl/107115 | weeellz / Равиль | review |
 | https://golang.org/cl/107135 | weeellz / Равиль | review |
 | https://golang.org/cl/105556 | tengufromsky / Никита | merged |
+| https://golang.org/cl/107018 | tengufromsky / Никита | merged |
 | https://golang.org/cl/107056 | tengufromsky / Никита | review |
 | https://golang.org/cl/105416 | ludweeg / Эмиль | merged |
 
