@@ -20,14 +20,14 @@
 
 1. [Вводное занятие](/_docs/presentations/1.pdf).
 2. [Первый коммит в go-review.googlesource](/_docs/presentations/2.pdf).
-3. Workshop + [Синтез двух лекций](/_docs/presentations/2+1.pdf) для новых студентов.
-4. Workshop + [Введение в профилирование и оптимизации](/_docs/presentations/3.pdf).
+3. **Workshop** + [синтез двух лекций](/_docs/presentations/2+1.pdf) для новых студентов.
+4. **Workshop** + [введение в профилирование и оптимизацию](/_docs/presentations/3.pdf).
 
 Официальный Contribution Guide:
 - [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
 - [Текущая версия](https://golang.org/doc/contribute.html)
 
-Workshop - это интерактивный формат, когда люди могут работать над своими
+**Workshop** - это интерактивный формат, когда люди могут работать над своими
 патчами в Go параллельно основному лекционному треку.
 
 Для всех новых студентов есть [доработанные слайды](/_docs/presentations/2+1.pdf) для быстрого вовлечения.
