@@ -96,7 +96,8 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 | https://golang.org/cl/107135 | weeellz / Равиль | merged |
 | https://golang.org/cl/107115 | weeellz / Равиль | merged |
 | https://golang.org/cl/105416 | ludweeg / Эмиль | merged |
-| https://golang.org/cl/108659 | ludweeg / Эмиль | review |
+| https://golang.org/cl/108659 | ludweeg / Эмиль | merged |
+| https://golang.org/cl/108815 | ludweeg / Эмиль | merged |
 
 ----
 
