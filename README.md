@@ -22,6 +22,7 @@
 2. [Первый коммит в go-review.googlesource](/_docs/presentations/2.pdf).
 3. **Workshop** + [синтез двух лекций](/_docs/presentations/2+1.pdf) для новых студентов.
 4. **Workshop** + [введение в профилирование и оптимизацию](/_docs/presentations/3.pdf).
+5. Очное занятие отменено.
 
 **Workshop** - это интерактивный формат, когда люди могут работать над своими
 патчами в Go параллельно основному лекционному треку.
@@ -31,6 +32,8 @@
 Официальный Contribution Guide:
 - [Новая версия](https://tip.golang.org/doc/contribute.html) (рекомендуется)
 - [Текущая версия](https://golang.org/doc/contribute.html)
+
+**Обновление**: курс проходил с марта по май, затем был приостановлен из-за [code freeze](https://groups.google.com/forum/#!topic/golang-dev/a1YnheC_ku4). За это время участники успели выслать **17** патчей.
 
 ## Полезные ссылки
 
@@ -98,6 +101,8 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 | https://golang.org/cl/105416 | ludweeg / Эмиль | merged |
 | https://golang.org/cl/108659 | ludweeg / Эмиль | merged |
 | https://golang.org/cl/108815 | ludweeg / Эмиль | merged |
+
+Итого: 17.
 
 ----
 
