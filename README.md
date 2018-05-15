@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=0a8u74Ul-hM&feature=youtu.be.
 [Go and fix me](https://www.goandfix.me/) - сервис, который отображает проблемы, найдённые линтерами в репозитории Go.
 Очень удобен для нахождения почвы для первых CL. (Временами недоступен, возможно проблемы с хостингом.)
 
+[goissues](https://goissues.org) кому-то может быть удобнее, чем сам github issue tracker.
+
 ## Ссылки, полезные для обучения
 
 Большинство ссылок легко найти в гугле по запросу "golang learning resources".  
