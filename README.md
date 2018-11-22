@@ -1,4 +1,4 @@
-# [Go](https://golang.org/) contributing русскоязычного сообщества
+# [Go](https://golang.org/) contributing [русскоязычного сообщества](http://slack.golang-ru.com/)
 
 > **Notice:** this repository is intended to make contributing to Go easier
 > for Russian speaking members of the community.
